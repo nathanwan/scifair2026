@@ -11,6 +11,6 @@ if %errorlevel% neq 0 (
 
 echo Starting the simulator...
 :: Run the streamlit app
-streamlit run demo_v1.0.2.py
+streamlit run demo_v1.0.0.1.py
 
 pause
